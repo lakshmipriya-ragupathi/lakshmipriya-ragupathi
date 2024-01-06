@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Lakshmipriya from IIITDM Kancheepuram. I'm a passionate machine learning enthusiast and student looking to collaborate on Kaggle competitions and seeking internships in the field of AI/ML.
+
 <!--
 **lakshmipriya-ragupathi/lakshmipriya-ragupathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
