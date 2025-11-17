@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I am Lakshmipriya from IIITDM Kancheepuram. I'm a passionate machine learning enthusiast and student looking to collaborate on Open Source proejects and seeking internships in the field of AI/ML.
+I'm Lakshmipriya, a researcher and MSc Advanced Computing student at **King's College London**, specializing in NLP and Speech.
 
-- 🔭 I’m currently working on an Emotion Recognition App using Deep Learning Models
-- 🌱 I’m currently learning Time Series Forecasting using LSTMs
-- 👯 I’m looking to collaborate on Open source projects in various machine learning domains such as time series analysis, computer vision and natural language processing
-- 📫 How to reach me: lakshmi190803@gmail.com 
+I have a background in building robust AI systems from my research at **AI4BHARAT (IIT Madras)**, where I focused on ASR for low-resource languages. My work involved developing data curation pipelines, implementing pseudo-labelling strategies on large-scale audio datasets, and exploring synthetic data generation with LLMs.
 
+- 🔭 **Current Project:** Investigating state-of-the-art models for Speech Emotion Recognition on the IEMOCAP dataset.
+- 🌱 **Core Interests:** Self-Supervised Learning, Explainable AI (XAI) for "black-box" models, and AI Safety/Alignment.
+- 💬 **Ask me about:** PyTorch, Hugging Face Transformers, and building data pipelines for speech and text.
+- 📫 **Get in touch:** [lakshmi190803@gmail.com](mailto:lakshmi190803@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lakshmipriya-ragupathi/)
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/lakshmipriya-ragupathi/)](https://www.linkedin.com/in/lakshmipriya-ragupathi/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:lakshmi190803@gmail.com)](mailto:lakshmi190803@gmail.com)
